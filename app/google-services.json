@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "108668204364",
+    "firebase_url": "https://homeperfect-9c1a5.firebaseio.com",
+    "project_id": "homeperfect-9c1a5",
+    "storage_bucket": "homeperfect-9c1a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108668204364:android:78e30e96ed139f29388be9",
+        "android_client_info": {
+          "package_name": "com.codeshot.home_perfect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108668204364-gfokkq8luh023vt2qciu2sliclpgn353.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeshot.home_perfect",
+            "certificate_hash": "0e76c075bb575c60aba25ca73d0efce859c8d085"
+          }
+        },
+        {
+          "client_id": "108668204364-gqr053qas8snqrlg539d8rramt8k5vgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeshot.home_perfect",
+            "certificate_hash": "2daee01656068597a068a7bae437bb65adc8104c"
+          }
+        },
+        {
+          "client_id": "108668204364-khs1hes8s43oa1sqpj0835c329tbjm5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGg50aTS9SLLJFG2RsKWdt_pYni155L00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108668204364-khs1hes8s43oa1sqpj0835c329tbjm5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108668204364:android:21ee497963559837388be9",
+        "android_client_info": {
+          "package_name": "com.codeshot.home_perfect_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108668204364-onfr34lsec3vv98oua8ok7fhc959hotl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeshot.home_perfect_provider",
+            "certificate_hash": "2daee01656068597a068a7bae437bb65adc8104c"
+          }
+        },
+        {
+          "client_id": "108668204364-khs1hes8s43oa1sqpj0835c329tbjm5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGg50aTS9SLLJFG2RsKWdt_pYni155L00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108668204364-khs1hes8s43oa1sqpj0835c329tbjm5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

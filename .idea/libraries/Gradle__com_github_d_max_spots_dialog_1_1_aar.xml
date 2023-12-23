@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.d-max:spots-dialog:1.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/d47a2ad4222c75b06c64ac560388442f/transformed/jetified-spots-dialog-1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/d47a2ad4222c75b06c64ac560388442f/transformed/jetified-spots-dialog-1.1/res" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/d47a2ad4222c75b06c64ac560388442f/transformed/jetified-spots-dialog-1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/com.github.d-max/spots-dialog/1.1/476f06d8946834cb5fb74248bb14edca7b7fce0a/spots-dialog-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

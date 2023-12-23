@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.liuguangqiang.swipeback:library:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/2383c96d50b11ff423c77cfe9d4d619f/transformed/jetified-library-1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/2383c96d50b11ff423c77cfe9d4d619f/transformed/jetified-library-1.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/2383c96d50b11ff423c77cfe9d4d619f/transformed/jetified-library-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/com.github.liuguangqiang.swipeback/library/1.0.2/236ec3cc2d0229f15c53eec6099be05e43e67a28/library-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/com.github.liuguangqiang.swipeback/library/1.0.2/b8ad09e71674f45323f6cf7d457b21972b5d632/library-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

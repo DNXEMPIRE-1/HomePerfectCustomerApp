@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-runtime:2.3.5@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/d21482d9e6821b32c0f671844a483212/transformed/navigation-runtime-2.3.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/d21482d9e6821b32c0f671844a483212/transformed/navigation-runtime-2.3.5/res" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/d21482d9e6821b32c0f671844a483212/transformed/navigation-runtime-2.3.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.3.5/4f74ea56cca52bece088c25ea260082a3b264d38/navigation-runtime-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

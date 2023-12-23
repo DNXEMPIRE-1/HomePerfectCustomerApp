@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.imperiumlabs:GeoFirestore-Android:v1.5.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/ac46de0bad21db2a4328ebcdbbf48195/transformed/jetified-GeoFirestore-Android-v1.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/ac46de0bad21db2a4328ebcdbbf48195/transformed/jetified-GeoFirestore-Android-v1.5.0/res" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/ac46de0bad21db2a4328ebcdbbf48195/transformed/jetified-GeoFirestore-Android-v1.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/com.github.imperiumlabs/GeoFirestore-Android/v1.5.0/9e7694bd9d23ecc834a23cb8f9cf8cae95804409/GeoFirestore-Android-v1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

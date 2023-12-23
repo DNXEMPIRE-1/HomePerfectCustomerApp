@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.raycoarana.codeinputview:codeinputview:1.2.5@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/bbaf897a21745079b3b28cdae8e306bf/transformed/jetified-codeinputview-1.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/bbaf897a21745079b3b28cdae8e306bf/transformed/jetified-codeinputview-1.2.5/res" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/bbaf897a21745079b3b28cdae8e306bf/transformed/jetified-codeinputview-1.2.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/com.raycoarana.codeinputview/codeinputview/1.2.5/16a74d5e9edbdd73bf902e15933e1da688631cf4/codeinputview-1.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/com.raycoarana.codeinputview/codeinputview/1.2.5/4ae26ee03d524c57cc8bf80d4a9e235ca6819fbc/codeinputview-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

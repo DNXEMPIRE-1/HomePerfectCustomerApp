@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.zhanghai.android.materialratingbar:library:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/f6120483e96ede9f0f5ea3a404376531/transformed/jetified-library-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/f6120483e96ede9f0f5ea3a404376531/transformed/jetified-library-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/f6120483e96ede9f0f5ea3a404376531/transformed/jetified-library-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/me.zhanghai.android.materialratingbar/library/1.4.0/34d3d5bd6997af81ef60e4d686939695efa217cd/library-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/me.zhanghai.android.materialratingbar/library/1.4.0/8a7a6dcaaeeb3f0cfa085b6950ace0115f7f2040/library-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

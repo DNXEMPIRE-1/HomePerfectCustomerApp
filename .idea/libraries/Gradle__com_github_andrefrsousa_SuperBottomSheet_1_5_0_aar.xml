@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.andrefrsousa:SuperBottomSheet:1.5.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/264f9b3a01d4716acf8afeb63d8cdb7a/transformed/jetified-SuperBottomSheet-1.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/264f9b3a01d4716acf8afeb63d8cdb7a/transformed/jetified-SuperBottomSheet-1.5.0/res" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/264f9b3a01d4716acf8afeb63d8cdb7a/transformed/jetified-SuperBottomSheet-1.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/com.github.andrefrsousa/SuperBottomSheet/1.5.0/5b71bc88d1bea8936ba717f660ce2da5003c71e0/SuperBottomSheet-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

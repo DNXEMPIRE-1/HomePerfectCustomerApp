@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: cc.cloudist.acplibrary:library:1.2.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/ab073882a7cd61d641800d7f615af87e/transformed/jetified-library-1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/ab073882a7cd61d641800d7f615af87e/transformed/jetified-library-1.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../classwork/TwoActivities/caches/transforms-3/ab073882a7cd61d641800d7f615af87e/transformed/jetified-library-1.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/cc.cloudist.acplibrary/library/1.2.1/9d01d7ed16c4ce678c4ec4ec82e0a31cbc8ddfba/library-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../classwork/TwoActivities/caches/modules-2/files-2.1/cc.cloudist.acplibrary/library/1.2.1/e9ac9da07d8c4c9038d645c9416939cdc3a22ff9/library-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
